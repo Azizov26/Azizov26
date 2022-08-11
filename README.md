@@ -1,4 +1,6 @@
-### Hi there, I'm Aziz 👋
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Aziz</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Frontend developer React JS 🇷🇺</h3>
 
 <div id="user-content-badges" align="center" dir="auto">
   <a href="https://t.me/aziz_azizov_it" rel="nofollow">
